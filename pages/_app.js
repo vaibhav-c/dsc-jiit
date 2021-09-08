@@ -27,9 +27,9 @@ class MyApp extends App {
 
     return (
       <AnimatePresence exitBeforeEnter>
-        <Container>
+        {/*<Container>*/}
           <Head>
-            <title>DSC JIIT</title>
+            <title>GDSC JIIT</title>
             <link rel="icon" href="assets/img/logo.png" />
           </Head>
           <ThemeProvider theme={theme}>
@@ -37,7 +37,7 @@ class MyApp extends App {
             <CssBaseline />
             <Component {...pageProps} />
           </ThemeProvider>
-        </Container>
+        {/*</Container>*/}
       </AnimatePresence>
     );
   }

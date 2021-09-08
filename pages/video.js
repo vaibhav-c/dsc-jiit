@@ -71,7 +71,7 @@ function Videos() {
                 className="title text-center"
                 style={{ padding: 50, paddingLeft: 2, marginLeft: 42 }}
               >
-                DSC JIIT NOIDA YOUTUBE COMMUNITY
+                GDSC JIIT NOIDA YOUTUBE COMMUNITY
               </h2>
               <h1
                 className="light-offset-title d-none d-md-block title text-center"
@@ -83,7 +83,7 @@ function Videos() {
                   opacity: 0.1,
                 }}
               >
-                DSC JIIT NOIDA YOUTUBE COMMUNITY
+                GDSC JIIT NOIDA YOUTUBE COMMUNITY
               </h1>
             </div>
           </div>

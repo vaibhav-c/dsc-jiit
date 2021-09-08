@@ -112,7 +112,7 @@ export default function Navbar() {
                 className="img-fluid"
                 style={{ height: 50 }}
               />{" "}
-              &nbsp; DSC JIIT{" "}
+              &nbsp; GDSC JIIT{" "}
             </Link>
           </Typography>
 
@@ -145,7 +145,7 @@ export default function Navbar() {
               <ChevronRightIcon />
             )}
             <Typography variant="h6" noWrap className={classes.title}>
-              DSC JIIT
+              GDSC JIIT
             </Typography>
           </IconButton>
         </div>

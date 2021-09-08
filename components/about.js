@@ -7,13 +7,13 @@ class About extends Component {
         <div id="about" className=" about-section container-fluid   ">
           <div className="section text-center">
             <div className="row">
-              <div className="col-lg-5 col-md-5 col-sm-12 col-xs-12 text-center">
+              <div className="col-lg-8 col-md-5 col-sm-12 col-xs-12 text-center">{/*changed from col-lg-5*/}
                 <div className="text-area col-md-8 offset-md-2">
                   <h2 className="">
-                    <b>About DSC </b>
+                    <b>About GDSC </b>
                   </h2>
                   <h4>
-                    Developer Student Clubs (DSC) is a Google Developers program
+                    Google Developer Student Clubs (GDSC) is a Google Developers program
                     for university students to learn mobile and web development
                     skills. The clubs are open to any student, ranging from
                     novice developers who are just starting, to advanced
@@ -33,7 +33,7 @@ class About extends Component {
                   </a>
                 </div>
               </div>
-              <div className="d-none d-md-block d-xl-block col-lg-7 col-md-7 about-section-img"></div>
+              <div className="d-none d-md-block d-xl-block col-lg-4 col-md-7 about-section-img"></div>{/*changed from col-lg-7*/}
             </div>
           </div>
         </div>

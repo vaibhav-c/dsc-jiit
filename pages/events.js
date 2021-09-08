@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import Navbar2 from "../components/navbar2";
 import Contact from "../components/contact";
-import data from "../team.json";
+import data from "../team21-22.json";
 import { motion } from "framer-motion";
 
 const pageVariants = {
