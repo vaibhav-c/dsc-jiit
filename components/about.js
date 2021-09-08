@@ -7,7 +7,7 @@ class About extends Component {
         <div id="about" className=" about-section container-fluid   ">
           <div className="section text-center">
             <div className="row">
-              <div className="col-lg-8 col-md-5 col-sm-12 col-xs-12 text-center">{/*changed from col-lg-5*/}
+              <div className="col-lg-5 col-md-5 col-sm-12 col-xs-12 text-center">
                 <div className="text-area col-md-8 offset-md-2">
                   <h2 className="">
                     <b>About GDSC </b>
@@ -33,7 +33,7 @@ class About extends Component {
                   </a>
                 </div>
               </div>
-              <div className="d-none d-md-block d-xl-block col-lg-4 col-md-7 about-section-img"></div>{/*changed from col-lg-7*/}
+              <div className="d-none d-md-block d-xl-block col-lg-7 col-md-7 about-section-img"></div>
             </div>
           </div>
         </div>
