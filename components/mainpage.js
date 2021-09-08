@@ -19,9 +19,9 @@ class Mainpage extends Component {
           <div className="row">
             <div className="col-md-8 ml-auto mr-auto">
               <div className="brand text-center">
-                <h1 className="main_header_title">DSC JIIT</h1>
+                <h1 className="main_header_title">GDSC JIIT</h1>
                 <h3 className="main_header_subtitle text-center">
-                  Developer Student Clubs | JIIT Noida
+                  Google Developer Student Clubs | JIIT Noida
                 </h3>
               </div>
             </div>

@@ -46,7 +46,7 @@ export default function Team() {
                   >
                     <h1 className="title team-main-title">About the Team
                     <h4>
-                      DSC JIIT aspires to expand its student community of
+                      GDSC JIIT aspires to expand its student community of
                       passionate and fervent developers to encapsulate the
                       latest and advanced technologies such as cloud computing,
                       machine learning, big data, web, and app development, etc.

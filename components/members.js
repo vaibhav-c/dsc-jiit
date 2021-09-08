@@ -16,7 +16,7 @@ class Members extends Component {
         <div className="container">
           <div className="row">
             <div className="col-md-8 ml-auto mr-auto text-center">
-              <h2 className="title">DSC Lead</h2>
+              <h2 className="title">Teacher<br/>Co-ordinator</h2>
             </div>
           </div>
           <div className="row">
@@ -26,34 +26,60 @@ class Members extends Component {
                   <a href="#pablo">
                     <img
                       className="img"
-                      src="/assets/img/coreteam/Members/dsc_lead.jpg"
+                      src="/assets/img/coreteam/Team 2021-22/CS Mahendra Kumar Gurve.jpg"
                     />
                   </a>
                 </div>
                 <div className="card-body ">
-                  <h4 className="card-title">Dhanshree Tejwani</h4>
+                  <h4 className="card-title">Mahendra Gurve</h4>
                 </div>
                 <div className="card-footer justify-content-center">
                   <a
-                    href="https://www.linkedin.com/in/dhanshreetejwani"
+                    href="https://www.linkedin.com/in/mahendragurve/"
+                    target="_blank"
+                    className="btn btn-just-icon btn-link btn-linkedin"
+                  >
+                    <i className="fa fa-linkedin"></i>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+        <div className="container">
+          <div className="row">
+            <div className="col-md-8 ml-auto mr-auto text-center">
+              <h2 className="title">Lead</h2>
+            </div>
+          </div>
+          <div className="row">
+            <div className="col-md-5 ml-auto mr-auto">
+              <div className="card card-profile card-plain">
+                <div className="card-header card-avatar">
+                  <a href="#pablo">
+                    <img
+                      className="img"
+                      src="/assets/img/coreteam/Team 2021-22/Lead.jpg"
+                    />
+                  </a>
+                </div>
+                <div className="card-body ">
+                  <h4 className="card-title">Sataskshi Garg</h4>
+                </div>
+                <div className="card-footer justify-content-center">
+                  <a
+                    href="https://www.linkedin.com/in/satakshigarg"
                     target="_blank"
                     className="btn btn-just-icon btn-link btn-linkedin"
                   >
                     <i className="fa fa-linkedin"></i>
                   </a>
                   <a
-                    href="https://github.com/tejwani23"
+                    href="https://github.com/satakshigarg"
                     target="_blank"
                     className="btn btn-just-icon btn-link btn-github"
                   >
                     <i className="fa fa-github"></i>
-                  </a>
-                  <a
-                    href="https://instagram.com/dhanshree23"
-                    target="_blank"
-                    className="btn btn-just-icon btn-link btn-twitter"
-                  >
-                    <i className="fa fa-instagram"></i>
                   </a>
                 </div>
               </div>
@@ -62,12 +88,37 @@ class Members extends Component {
           <div className="container">
             <div className="row">
               <div className="col-md-8 ml-auto mr-auto text-center">
-                <h2 className="title">Members</h2>
+                <h2 className="title">Senior Advisors</h2>
               </div>
             </div>
-            <Footer />
+            <Footer team="seniors"/>
+          </div>
+          <div className="container">
+            <div className="row">
+              <div className="col-md-8 ml-auto mr-auto text-center">
+                <h2 className="title">Technical Team</h2>
+              </div>
+            </div>
+            <Footer team="technical"/>
+          </div>
+          <div className="container">
+            <div className="row">
+              <div className="col-md-8 ml-auto mr-auto text-center">
+                <h2 className="title">Management and Public Relations Team</h2>
+              </div>
+            </div>
+            <Footer team="management"/>
+          </div>
+          <div className="container">
+            <div className="row">
+              <div className="col-md-8 ml-auto mr-auto text-center">
+                <h2 className="title">Design Team</h2>
+              </div>
+            </div>
+            <Footer team="design"/>
           </div>
         </div>
+      </div>
       </div>
     );
   }

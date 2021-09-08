@@ -10,10 +10,10 @@ class About extends Component {
               <div className="col-lg-5 col-md-5 col-sm-12 col-xs-12 text-center">
                 <div className="text-area col-md-8 offset-md-2">
                   <h2 className="">
-                    <b>About DSC </b>
+                    <b>About GDSC </b>
                   </h2>
                   <h4>
-                    Developer Student Clubs (DSC) is a Google Developers program
+                    Google Developer Student Clubs (GDSC) is a Google Developers program
                     for university students to learn mobile and web development
                     skills. The clubs are open to any student, ranging from
                     novice developers who are just starting, to advanced

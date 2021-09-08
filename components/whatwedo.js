@@ -11,10 +11,10 @@ class Whatwedo extends Component {
                 What we do?
               </h4>
               <p className="description" style={{ color: "#333333" }}>
-                A Developer Student Clubs is a Google recognised student body at
+                A Google Developer Student Club is a Google recognised student body at
                 a college which directly reports to Google for their activities.
                 <br />
-                <br />A DSC conducts workshops, seminars and other fun
+                <br />A GDSC conducts workshops, seminars and other fun
                 activities which help the students connect with Google.
               </p>
               <br />

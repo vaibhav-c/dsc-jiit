@@ -147,7 +147,7 @@ class Contact extends Component {
             </div>
             <div className="col-md-6 offset-md-2">
               <h3 className="footer-title">
-                DSC JIIT, powered by Google Developers
+                GDSC JIIT, powered by Google Developers
               </h3>
               <h4>
                 Jaypee Institute Of Information Technology,
@@ -161,10 +161,10 @@ class Contact extends Component {
               <h3 className="follow-title">Follow us on</h3>
               <br />
               <div className="social-links list-unstyled">
-                <a href="https://www.facebook.com/dscjiitnoida/">
+                <a href="https://www.facebook.com/gdscjiit/">
                   <img src="assets/img/fb.png" width="35px" height="35px" alt="img" />
                 </a>
-                <a href="https://www.linkedin.com/company/dscjiitnoida/">
+                <a href="https://www.linkedin.com/company/gdscjiitnoida">
                   <img
                     src="assets/img/linkedin.png"
                     width="35px"
@@ -180,7 +180,7 @@ class Contact extends Component {
                     alt="img"
                   />
                 </a>
-                <a href="https://www.instagram.com/dscjiit/">
+                <a href="https://www.instagram.com/gdscjiit/">
                   <img
                     src="assets/img/instagram.png"
                     width="35px"
