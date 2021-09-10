@@ -357,7 +357,7 @@
                 "name": "Ekta Goel",
                 "description": "Member",
                 "imglink":"/assets/img/coreteam/Team 2021-22/Design/Ekta.jpg",
-                "css_class" : "col-md-4",
+                "css_class" : "col-md-3",
                 "links":{
                     "linkedin": "https://www.linkedin.com/in/ekta-goel-473636203/",
                     "github": "https://github.com/ektagoel12",
@@ -369,7 +369,7 @@
                 "name": "Aditi Aggarwal",
                 "description": "Member ",
                 "imglink": "/assets/img/coreteam/Team 2021-22/Design/Aditi.jpg",
-                "css_class" : "col-md-4",
+                "css_class" : "col-md-3",
                 "links":{
                     "linkedin":"https://www.linkedin.com/in/aditi-aggarwal-50104b1b8/",           
                     "github": "https://github.com/Ashell129 ",
@@ -381,14 +381,27 @@
                 "name": "Maneka Singh",
                 "description": "Member",
                 "imglink": "/assets/img/coreteam/Team 2021-22/Design/Maneka.jpg",
-                "css_class" : "col-md-4",
+                "css_class" : "col-md-3",
                 "links": {
                     "linkedin":"https://www.linkedin.com/in/maneka-singh-b887a0204/",           
                     "github": "https://github.com/manekasingh05",
                     "twitter":"https://twitter.com/SinghManeka",
                     "fb" : " "
                 }
-            }   
+            },
+            {
+                "name": "Bhavey Mittal",
+                "description": "Member",
+                "imglink":"/assets/img/coreteam/Team 2021-22/Design/Bhavey.png",
+                "css_class" : "col-md-3",
+                "links":{
+                    "linkedin": "https://www.linkedin.com/in/bhavey-mittal-1b0aa81b6",
+                    "github": "https://github.com/BhaveyM",
+                    "fb": "https://www.facebook.com/bhavey.mittal/",
+                    "twitter": "https://twitter.com/bhavey_mittal"
+                }
+            }
+                   
         ],
         "seniors" : [
             {
